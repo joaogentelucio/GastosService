@@ -123,7 +123,7 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
     app.UseSwagger();
     app.UseSwaggerUI(options =>
     {
-        options.RoutePrefix = string.Empty;
+        options.RoutePrefix = "swagger";
         options.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1");
     });
 }
@@ -163,7 +163,7 @@ if (app.Environment.IsProduction())
         try
         {
             using var client = new HttpClient();
-            var url = "https://meetservices.onrender.com/health";
+            var url = "https://gastosservice-ovgk.onrender.com/health";
             var response = await client.GetAsync(url);
 
             Console.WriteLine($"[KeepAlive] {DateTime.Now}: {response.StatusCode}");
