@@ -123,17 +123,6 @@ builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
-
-if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI(options =>
-    {
-        options.RoutePrefix = "swagger";
-        options.SwaggerEndpoint("v1/swagger.json", "API v1");
-    });
-}
-
 var uploadsPath = Path.Combine(app.Environment.ContentRootPath, "wwwroot", "uploads");
 
 if (!Directory.Exists(uploadsPath))
@@ -155,6 +144,17 @@ if (!app.Environment.IsProduction())
 
 app.UseCors("corsapp");
 app.UseRouting();
+
+if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(options =>
+    {
+        options.RoutePrefix = "swagger";
+        options.SwaggerEndpoint("v1/swagger.json", "API v1");
+    });
+}
+
 app.UseAuthentication();
 app.UseAuthorization();
 
