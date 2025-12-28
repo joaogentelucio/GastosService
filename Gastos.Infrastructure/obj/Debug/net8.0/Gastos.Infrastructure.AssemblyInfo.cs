@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gastos.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f93cc1b5b91d951f18962407a471128d2a48b2aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88dec06ad947cc33dc870cc3dc54c094735e4858")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gastos.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gastos.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
