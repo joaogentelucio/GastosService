@@ -27,4 +27,7 @@ RUN dotnet publish "./Gastos.Api.csproj" -c $BUILD_CONFIGURATION -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+USER root
+RUN mkdir -p wwwroot/uploads && chmod -R 777 wwwroot/uploads
+USER $APP_UID
 ENTRYPOINT ["dotnet", "Gastos.Api.dll"]
