@@ -15,3 +15,4 @@ C:\Users\eu\Documents\GitHub\GastosService\Gastos.Application\obj\Debug\net8.0\G
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Application\obj\Debug\net8.0\refint\Gastos.Application.dll
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Application\obj\Debug\net8.0\Gastos.Application.pdb
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Application\obj\Debug\net8.0\ref\Gastos.Application.dll
+C:\Users\eu\Documents\GitHub\GastosService\Gastos.Application\obj\Debug\net8.0\Gastos.Application.sourcelink.json

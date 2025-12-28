@@ -132,6 +132,27 @@ app.UseCors("Default");
 app.UseAuthentication(); 
 app.UseAuthorization();
 app.MapControllers();
+app.MapGet("/health", () => "OK");
+
+if (app.Environment.IsProduction())
+{
+    var timer = new System.Threading.Timer(async _ =>
+    {
+        try
+        {
+            using var client = new HttpClient();
+            var url = "https://meetservices.onrender.com/health";
+            var response = await client.GetAsync(url);
+
+            Console.WriteLine($"[KeepAlive] {DateTime.Now}: {response.StatusCode}");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"[KeepAlive ERRO] {ex.Message}");
+        }
+    }, null, TimeSpan.Zero, TimeSpan.FromMinutes(14));
+}
+
 app.UseStaticFiles();
 app.UseStaticFiles(new StaticFileOptions
 {

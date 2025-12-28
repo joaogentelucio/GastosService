@@ -9,3 +9,4 @@ C:\Users\eu\Documents\GitHub\GastosService\Gastos.Shared\obj\Debug\net8.0\Gastos
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Shared\obj\Debug\net8.0\refint\Gastos.Shared.dll
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Shared\obj\Debug\net8.0\Gastos.Shared.pdb
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Shared\obj\Debug\net8.0\ref\Gastos.Shared.dll
+C:\Users\eu\Documents\GitHub\GastosService\Gastos.Shared\obj\Debug\net8.0\Gastos.Shared.sourcelink.json

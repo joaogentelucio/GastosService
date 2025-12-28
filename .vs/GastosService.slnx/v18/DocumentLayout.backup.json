@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71251B76-EAC7-2D66-14A0-67A5CBC815EB}|Gastos.Infrastructure\\Gastos.Infrastructure.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.infrastructure\\data\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71251B76-EAC7-2D66-14A0-67A5CBC815EB}|Gastos.Infrastructure\\Gastos.Infrastructure.csproj|solutionrelative:gastos.infrastructure\\data\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E2F004F-8A21-FA19-DCAB-3C01B733D698}|Gastos.Application\\Gastos.Application.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E2F004F-8A21-FA19-DCAB-3C01B733D698}|Gastos.Application\\Gastos.Application.csproj|solutionrelative:gastos.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8E5CFC-FC3E-BA4A-74F3-DE3D593390A3}|Gastos.Api\\Gastos.Api.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8E5CFC-FC3E-BA4A-74F3-DE3D593390A3}|Gastos.Api\\Gastos.Api.csproj|solutionrelative:gastos.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0EA435-B141-90ED-0EF8-04FF6EBCC5E7}|Gastos.Domain\\Gastos.Domain.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0EA435-B141-90ED-0EF8-04FF6EBCC5E7}|Gastos.Domain\\Gastos.Domain.csproj|solutionrelative:gastos.domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E2F004F-8A21-FA19-DCAB-3C01B733D698}|Gastos.Application\\Gastos.Application.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E2F004F-8A21-FA19-DCAB-3C01B733D698}|Gastos.Application\\Gastos.Application.csproj|solutionrelative:gastos.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71251B76-EAC7-2D66-14A0-67A5CBC815EB}|Gastos.Infrastructure\\Gastos.Infrastructure.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.infrastructure\\data\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71251B76-EAC7-2D66-14A0-67A5CBC815EB}|Gastos.Infrastructure\\Gastos.Infrastructure.csproj|solutionrelative:gastos.infrastructure\\data\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71251B76-EAC7-2D66-14A0-67A5CBC815EB}|Gastos.Infrastructure\\Gastos.Infrastructure.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.infrastructure\\data\\forgotpasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71251B76-EAC7-2D66-14A0-67A5CBC815EB}|Gastos.Infrastructure\\Gastos.Infrastructure.csproj|solutionrelative:gastos.infrastructure\\data\\forgotpasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,79 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Gastos.Infrastructure\\Data\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\UsuarioRepository.cs",
-              "RelativeToolTip": "Gastos.Infrastructure\\Data\\UsuarioRepository.cs",
-              "ViewState": "AgIAAFYAAAAAzMzMzAwrwHYAAAAJAAAAAAAAAA==",
+              "Title": "ForgotPasswordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
+              "RelativeDocumentMoniker": "Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
+              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
+              "RelativeToolTip": "Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T14:10:32.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Gastos.Application\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "Gastos.Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAowJ4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:39:34.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Gastos.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Gastos.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAIwIEAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:08:17.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRefreshTokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Domain\\Interfaces\\IRefreshTokenRepository.cs",
-              "RelativeDocumentMoniker": "Gastos.Domain\\Interfaces\\IRefreshTokenRepository.cs",
-              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Domain\\Interfaces\\IRefreshTokenRepository.cs",
-              "RelativeToolTip": "Gastos.Domain\\Interfaces\\IRefreshTokenRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:22:39.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RefreshTokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\RefreshTokenRepository.cs",
-              "RelativeDocumentMoniker": "Gastos.Infrastructure\\Data\\RefreshTokenRepository.cs",
-              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\RefreshTokenRepository.cs",
-              "RelativeToolTip": "Gastos.Infrastructure\\Data\\RefreshTokenRepository.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAiwEEAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:19:02.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Application\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Gastos.Application\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Application\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "Gastos.Application\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:27:05.656Z",
+              "WhenOpened": "2025-12-26T13:15:05.678Z",
               "EditorCaption": ""
             }
           ]

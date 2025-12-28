@@ -17,3 +17,4 @@ C:\Users\eu\Documents\GitHub\GastosService\Gastos.Infrastructure\obj\Debug\net8.
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Infrastructure\obj\Debug\net8.0\refint\Gastos.Infrastructure.dll
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Infrastructure\obj\Debug\net8.0\Gastos.Infrastructure.pdb
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Infrastructure\obj\Debug\net8.0\ref\Gastos.Infrastructure.dll
+C:\Users\eu\Documents\GitHub\GastosService\Gastos.Infrastructure\obj\Debug\net8.0\Gastos.Infrastructure.sourcelink.json

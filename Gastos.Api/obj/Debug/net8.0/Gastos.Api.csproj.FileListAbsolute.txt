@@ -65,3 +65,4 @@ C:\Users\eu\Documents\GitHub\GastosService\Gastos.Api\obj\Debug\net8.0\refint\Ga
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Api\obj\Debug\net8.0\Gastos.Api.pdb
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Api\obj\Debug\net8.0\Gastos.Api.genruntimeconfig.cache
 C:\Users\eu\Documents\GitHub\GastosService\Gastos.Api\obj\Debug\net8.0\ref\Gastos.Api.dll
+C:\Users\eu\Documents\GitHub\GastosService\Gastos.Api\obj\Debug\net8.0\Gastos.Api.sourcelink.json

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF8E5CFC-FC3E-BA4A-74F3-DE3D593390A3}|Gastos.Api\\Gastos.Api.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E5CFC-FC3E-BA4A-74F3-DE3D593390A3}|Gastos.Api\\Gastos.Api.csproj|solutionrelative:gastos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71251B76-EAC7-2D66-14A0-67A5CBC815EB}|Gastos.Infrastructure\\Gastos.Infrastructure.csproj|c:\\users\\eu\\documents\\github\\gastosservice\\gastos.infrastructure\\data\\forgotpasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71251B76-EAC7-2D66-14A0-67A5CBC815EB}|Gastos.Infrastructure\\Gastos.Infrastructure.csproj|solutionrelative:gastos.infrastructure\\data\\forgotpasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,19 +23,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ForgotPasswordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
-              "RelativeDocumentMoniker": "Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
-              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
-              "RelativeToolTip": "Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDIAAAA3AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Gastos.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Api\\Program.cs",
+              "RelativeToolTip": "Gastos.Api\\Program.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T13:15:05.678Z",
+              "WhenOpened": "2025-12-28T19:24:17.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgotPasswordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
+              "RelativeDocumentMoniker": "Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
+              "ToolTip": "C:\\Users\\eu\\Documents\\GitHub\\GastosService\\Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
+              "RelativeToolTip": "Gastos.Infrastructure\\Data\\ForgotPasswordRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:15:05.678Z",
+              "EditorCaption": ""
             }
           ]
         }
