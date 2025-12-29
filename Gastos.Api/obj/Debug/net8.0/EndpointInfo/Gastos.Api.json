@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "Gastos.Api",
-    "version": "1.0"
+    "title": "Gastos API",
+    "version": "v1"
   },
   "paths": {
     "/api/Auth/AutenticarUsuario": {
