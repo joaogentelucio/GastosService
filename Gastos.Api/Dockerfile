@@ -28,6 +28,6 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 USER root
-RUN mkdir -p wwwroot/uploads && chmod -R $APP_UID:$APP_UID app/wwwroot/uploads
+RUN mkdir -p wwwroot/uploads && chown -R $APP_UID:$APP_UID app/wwwroot/uploads
 USER $APP_UID
 ENTRYPOINT ["dotnet", "Gastos.Api.dll"]
