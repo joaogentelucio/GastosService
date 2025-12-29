@@ -74,7 +74,7 @@ builder.Services.AddControllers()
 builder.Services.AddCors(p => p.AddPolicy("corsapp", policy =>
 {
     policy
-        .WithOrigins("http://localhost:5173", "http://192.168.1.2:5173")
+        .WithOrigins("https://gastosservice-ovgk.onrender.com")
         .AllowAnyMethod()
         .AllowAnyHeader()
         .AllowCredentials();
@@ -133,7 +133,7 @@ app.UseStaticFiles(new StaticFileOptions
     RequestPath = "/uploads"
 });
 
-if (!app.Environment.IsProduction())
+if (app.Environment.IsProduction())
 {
     app.UseHttpsRedirection();
 }
@@ -147,7 +147,7 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
     app.UseSwaggerUI(options =>
     {
         options.RoutePrefix = "swagger";
-        options.SwaggerEndpoint("v1/swagger.json", "API v1");
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1");
     });
 }
 
